@@ -1,6 +1,11 @@
 # Profile Generator
 
-Create a quick survey app which asks the user a bunch of questions like their favourite music, activity, food, sport, etc. It will then generate a profile description for them to use online.
+
+## Goal:
+Create a quick survey app which asks the user a bunch of questions like their favourite music, activity, food, sport, etc. 
+
+It will then generate a profile description for them to use online.
+
 
 
 ## Questions for The User:
@@ -18,3 +23,4 @@ Create a quick survey app which asks the user a bunch of questions like their fa
   - Which sport is your absolute favourite?
 
   - What is your superpower? In a few words, tell us what you are amazing at!
+
