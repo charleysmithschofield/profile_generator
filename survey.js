@@ -1,27 +1,7 @@
 // Fun Profile Generator - Challenge:
 
 /*
-  Readline:
-
-  Since we will surveying the user, we need a nice way to ask questions and fetch
-  answers.
-
-  Instead of reading one character at a time, as we have done before with stdin
-  directly, Node has a built-in module to read one line at a time.
-
-  The readline module in Node helps us read one line at a time. IT can use any input
-  stream, but in our case we are only interested in stdin.
-
-  Important Concepts regarding Readline: https://github.com/nodejs/node/blob/main/doc/api/readline.md
-*/
-
-
-/*
- Use their example code (copied below) to serve as our starting "boilerplate"
- code:
-
- Instead of asking the user about what they think of Node.js, we can ask them
- the following questions, in order:
+  Ask the following questions and return a paragraph summary of their answers:
 
     - What's your name? Nicknames are also acceptable :)
     - What's an activity you like doing?
